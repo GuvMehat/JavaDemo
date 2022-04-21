@@ -4,8 +4,7 @@ import java.util.*;
 
 public class AL1 {
 
-	public static void main(String args[]) 
-	{
+	public static void main(String args[]) {
 
 		// create a new Array List
 		ArrayList<String> Names = new ArrayList<String>();
